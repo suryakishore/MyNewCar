@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My New Car</string>
+    <string name="addContact">Add Contact</string>
+    <string name="subMit">SUBMIT</string>
+
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="permissionError">you don\'t have access to get contacts</string>
+
+</resources>
